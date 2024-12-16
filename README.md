@@ -13,5 +13,9 @@ Trabaje con el dataset creado en el colab "classification_apartments" pero por l
 --------
 Es por eso que para poder usar los modelos y desarrollar el trabajo mejor, me puse a buscar datasets, a ver si alguno me interasaba.
 Encontré en Kaggle uno de enfermedades y descripcion de sintomas, que me parecio optimo.
-De ahi desarrolle el nuevo trabajo en "classification_symptoms"
+De ahi desarrolle el nuevo trabajo en "classification_symptoms" que terminara siendo el TP_CDIII_...
+
+En este trabajo, a partir del datast hago un desarrollo de herramientas de analisis detexto y luego aplico modelos de machine learning clasicos (Logistic Regression, Random Forest, Support Vector Machine y Gradient Boosing) para mi problema de clasificacion. Procedo a utilizar algoritmos de deepl learning con redes neuronales simples, con embeddings, convoluciones y pooling, y con LSTM. 
+Finalmente prubeo un modelo de generacion de texto.
+El mayor desafio que afecta mi trabajo es la baja cantidad de datos de la base y un posible sesgo de clasificacion.
 
