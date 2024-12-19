@@ -1,7 +1,7 @@
 Aqui estaré subiendo archivos para el trabajo practico del ultimo modulo del curso de Data Science que estoy haciendo den CoderHouse: NLP & Deep Learning aplicado a Ciencia de Datos.
 
 ------
-
+Departamentos:
 Al principio queria hacer un problema de clasificacion de descripcion de departamentos que predijera si tienen blacón o no. Para eso, como no encontre un datast con lo que yo necesitaba me propuse ver si podia crearlo yo usando chatGPT. 
 La serie de prompts que use para llegar al csv que use fueron:
   "Quiero desarrollar un algoritmo de machine learning de clasificacion de texto. Para eso quiero que me crees una lista de 500 comentarios distintos de no mas de 100 palabras cada uno, que describan departamentos. la mitad que describan departamentos que tengan balcón y la otra mitad no. Dame la respuesta en formato de csv, con dos columnas, la primera que sea el comentario, y la segunda que diga 1 si tiene balcon y 0 si no tiene balcon."
@@ -11,6 +11,7 @@ La serie de prompts que use para llegar al csv que use fueron:
 Trabaje con el dataset creado en el colab "classification_apartments" pero por lo pequeño del dataset no me gustaban los resultados, claramente overfitteaba. Al introducir nuevos inputs con descripciones de departamentos, cometia errores muy grosos. 
 
 --------
+CoderHouseTP
 Es por eso que para poder usar los modelos y desarrollar el trabajo mejor, me puse a buscar datasets, a ver si alguno me interasaba.
 Encontré en Kaggle uno de enfermedades y descripcion de sintomas, que me parecio optimo.
 De ahi desarrolle el nuevo trabajo en "classification_symptoms" que terminara siendo el TP_CDIII_...
