@@ -1,1 +1,5 @@
+In this proyect for my final course in Data Science career on Coderhouse: NLP and Deep Learning, i took a symptom - diagnosis dataset from kaggle [Link](https://www.kaggle.com/datasets/niyarrbarman/symptom2disease/data). 
+For simplifying the clasification problem, y manualy reclasified the diseases into medical departments. 
+Then worked on it with several NPL techniques, tryed differnet methods for trying to predict the department corresponding to a certain symptom description. First some simple machine learning algorithms and then some deep learning techniques with tensor flow.
+Finally I played with some text generating lines in orther to produce new symptoms with a small text input.
 
